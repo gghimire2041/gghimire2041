@@ -4,7 +4,7 @@ Data Scientist
 👋 Data Scientist passionate about leveraging deep learning, large language models, and AI for impactful research and development. 🚀 Exploring the frontiers of AI to drive innovation. 🤖 #DataScience #DeepLearning #AIResearch
 
 *   🌍  I'm based in Dallas, TX
-*   ✉️  You can contact me at [gghimire2041@gmail.com](mailto:gghimire2041@gmail.com)
+*   ✉️  You can contact me at [encoded_decoded@gmail.com](encoded_decoded@gmail.com)
 *   🧠  I'm learning Interpretability of large language models using attention display and sensitivity analysis
 *   🤝  I'm open to collaborating on LLMs, Machine Learning
 *   ⚡  I'm also very fond of music. I love playing guitar and piano.
