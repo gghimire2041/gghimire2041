@@ -37,7 +37,7 @@ If you're looking for:
 **→ I’d love to hear from you.**
 
 📬 **Contact me** at:  
-📧 govinda.ghimire.dev@gmail.com  
+📧 gghimire2041@gmail.com  
 📫 Or message me on GitHub.
 
 ---
