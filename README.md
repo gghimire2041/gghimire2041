@@ -1,4 +1,4 @@
-# 🤖 AI & ML Solutions by Govinda Ghimire
+# 🤖 AI & ML Solutions 
 
 Welcome to my GitHub space dedicated to practical, production-ready **Artificial Intelligence** and **Machine Learning** solutions.  
 From **NLP agents** to **predictive analytics**, I design, build, and explain AI systems that solve real-world problems.
